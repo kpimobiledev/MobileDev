@@ -2,9 +2,9 @@
 
 ### Опис курсу
 
-Курс складається з теоретичних занять (слайди лекцій можна знайти в поточному репозиторії) та практичних занять. 
+Курс складається з теоретичних занять (слайди лекцій можна знайти в поточному репозиторії) та практичних занять.
 
-Курс лекцій буде складатися з теоретичних матеріалів щодо розробки ПЗ для мобільних платформ iOS (мова програмування: [Swift](https://developer.apple.com/swift/)) та Android (мова програмування: [Java](java for android download)).
+Курс лекцій буде складатися з теоретичних матеріалів щодо розробки ПЗ для мобільних платформ iOS (мова програмування: [Swift](https://developer.apple.com/swift/)) та Android (мова програмування: [Java](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)).
 
 Завданням для практичних занять курсу є створення концепції та розробка мобільного ПЗ для будь-якої сучасної мобільної платформи нативними або альтернативними засобами. Завдання має бути зробленим командою не більше 3 студентів. У розробленому продукті бажана наявність наступних пунктів:
 
@@ -20,10 +20,10 @@
 ### Етапи роботи (буде додано):
 
 1. Створення концепції продукту (ЛР №1)
-  
+
   * Cтворити ідею продукту
 
-  * Розподілитись на команди (до 3 людей в залежності від складності задачі) 
+  * Розподілитись на команди (до 3 людей в залежності від складності задачі)
   * Cтворити репозиторій в GitHub для подальшої роботи над проектом. Файл readme має містити:
 
     * Короткий опис ідеї
@@ -34,12 +34,35 @@
     * Use-Case діаграма (з мінімальним ступенем деталізації, суто для пояснення функціоналу застосунку)
     * Raw-прототип (за бажанням)
 
-  Написати про склад команди розробників та надати посилання на репозиторій проекту [сюди](https://github.com/kpimobiledev/MobileDev/issues/1) (без дублювання) 
+  Написати про склад команди розробників та надати посилання на репозиторій проекту [сюди](https://github.com/kpimobiledev/MobileDev/issues/1) (без дублювання)
   Термін виконання: до 24.02
-  
+
+2. Створення дизайну застосунку (ЛР №2)
+
+  * Ознайомитись із загальними концепціями дизайну для iOS та Android
+  * Розробити дизайн для застосунку, концепцію якого було **затверджено** у результаті виконання ЛР №1
+
+  Рекомендоване ПЗ для створення/роботи із дизайном:
+  * [InVision](https://www.invisionapp.com)
+  * [NinjaMock](https://ninjamock.com)
+  * [Sketch](https://www.sketchapp.com)
+
+  Матеріали для ознайомлення:
+
+  * Android
+    * [Material Design for Android](https://developer.android.com/design/material/index.html)
+    * [Material Design Guidelines](https://material.io/guidelines/)
+    * [Material Design Principles (Udacity course)](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+    * [MaterialUp: the best examples of material design](https://material.uplabs.com)
+  * iOS
+    * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
+    * [iOSUp: the best examples of iOS design](https://ios.uplabs.com)
+
+  Термін виконання: до 21.03
+
 ## Матеріали курсу
 
-Слайди лекцій буде викладено в поточному репозиторії. 
+Слайди лекцій буде викладено в поточному репозиторії.
 До вивчення рекомендовано наступні ресурси:
 
 ### Android
@@ -66,7 +89,7 @@
 * [Networking](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 * [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
 
-#### Advanced 
+#### Advanced
 * [GCD](https://www.udacity.com/course/grand-central-dispatch-gcd--ud576)
 * [Xcode debugging](https://www.udacity.com/course/xcode-debugging--ud774)
 * [Persistent storage and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
