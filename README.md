@@ -57,6 +57,8 @@
   * iOS
     * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
     * [iOSUp: the best examples of iOS design](https://ios.uplabs.com)
+  * Sketch
+    * [Розробка дизайну у Sketch](https://www.youtube.com/watch?v=mlgI4u_X8sU) 
 
   Термін виконання: до 21.03
 
