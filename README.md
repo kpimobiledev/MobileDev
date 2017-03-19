@@ -53,14 +53,74 @@
     * [Material Design for Android](https://developer.android.com/design/material/index.html)
     * [Material Design Guidelines](https://material.io/guidelines/)
     * [Material Design Principles (Udacity course)](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+    * [UX for mobile developers (Udacity course)](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
     * [MaterialUp: the best examples of material design](https://material.uplabs.com)
   * iOS
     * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
     * [iOSUp: the best examples of iOS design](https://ios.uplabs.com)
   * Sketch
-    * [Розробка дизайну у Sketch](https://www.youtube.com/watch?v=mlgI4u_X8sU) 
+    * [Розробка дизайну у Sketch](https://www.youtube.com/watch?v=mlgI4u_X8sU)
 
   Термін виконання: до 21.03
+
+3. Адаптація дизайну у застосунок
+
+  * Android
+    Завданням ЛР є створення розміток (layout) згідно розробленому дизайну у ЛР№2. Загальною вимогою до розміток є максимальна відповідність дизайну, стійкість до змін конфігурації телефону (ротація). Практична рекомендація: перед тим, як переносити дизайн у розмітку, продумайте, які операції (Activity) буде містити застосунок, які у них будуть використані фрагменти (Fragment). Це допоможе розділити розмітку на логічні блоки таким чином, щоб було зручно маніпулювати та доступатися до елементів графічного інтерфейсу.
+
+    Матеріали для ознайомлення:
+    * [Android Basics: User Interface (Udacity course)](https://www.udacity.com/course/android-development-for-beginners--ud837)
+
+
+4. Створення прототипу (переходи)
+
+  * Android
+    Завданням ЛР є адаптація створених розміток до операцій (Activity) та фрагментів (Fragment) вашого застосунку. У результаті ЛР має бути створено застосунок, який містить всі необхідні переходи між екранами, які відображують загальний функціонал, без роботи із мережею (сторонні API/SDK), сервісів та БД.
+
+    Матеріали для ознайомлення:
+    * [Android Basics: Multi-screen applications (Udacity course)](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+    * [Building a Dynamic UI with Fragments](https://developer.android.com/training/basics/fragments/index.html)
+    * [Немного о работе с фрагментами](https://habrahabr.ru/post/207036/)
+
+5. Робота із мережею
+
+  * Android
+    Завданням ЛР є розробка частини застосунку, відповідну за роботу із мережею. Завдання ЛР включає:
+    * Робота із сторонніми API або SDK, необхідних для застосунку (наприклад, API/SDK соціальних мереж, засобів оплати, SDK Google Maps тощо)
+    * Робота із засобами аналітики застосунку або реклами (Firebase Analytics, AdMob)
+
+    Матеріали для ознайомлення:
+    * [Performing network operations](https://developer.android.com/training/basics/network-ops/index.html)
+    * [Android Basics: Networking (Udacity course)](https://www.udacity.com/course/android-basics-networking--ud843)
+
+6. Робота із особливостями пристрою
+
+  * Android
+    Завданням ЛР є розробка частини застосунку, відповідної за роботу із особливостями пристрою. Завдання ЛР включає роботу із:
+    * Камерою
+    * GPS
+    * Bluetooth
+    * Мікрофон
+    * Fingerprint
+    * NFC [тощо](https://developer.android.com/guide/topics/manifest/uses-feature-element.html)
+
+7. Робота з БД / файловою системою
+
+  * Android
+    Завданням ЛР є розробка частини застосунку, відповідної за роботу із БД або файловою системою. Можна використовувати будь-який доцільний засіб збереження даних, якщо необхідно.
+
+    Матеріали для ознайомлення:
+    * [Saving data in Android](https://developer.android.com/training/basics/data-storage/index.html)
+    * [Android Basics: Data Storage (Udacity course)](https://www.udacity.com/course/android-basics-data-storage--ud845)
+
+8. Тестування застосунку
+
+  * Android
+    Завданням ЛР є створення тестів для застосунку, включаючи UI-тести.
+
+    Матеріали для ознайомлення:
+    * [Test your app](https://developer.android.com/studio/test/index.html)
+    * [Firebase test lab: інструмент для тестування](https://firebase.google.com/docs/test-lab/)
 
 ## Матеріали курсу
 
