@@ -151,6 +151,7 @@
 Лекції:
 * [Лекція 1](https://docs.google.com/presentation/d/1Bt68iRD6yCuw_OZpZWIMYw7wazEzxSpkWIa-ugUlUhg/edit?usp=sharing)
 * [Лекція 2-3](https://docs.google.com/presentation/d/1gcOsJ-qYn4JEXr5_2tdbOv3GhcIL-KfJM59cAUtVi8w/edit?usp=sharing)
+* [Лекція 4](https://docs.google.com/presentation/d/1bvOismyq51QEyryyV7TMYvAeVtsq48tQO7T5fZgzDjE/edit?usp=sharing)
 
 До вивчення рекомендовано наступні ресурси:
 
