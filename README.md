@@ -154,6 +154,7 @@
 * [Лекція 4](https://docs.google.com/presentation/d/1bvOismyq51QEyryyV7TMYvAeVtsq48tQO7T5fZgzDjE/edit?usp=sharing)
 * [Лекція 5](https://docs.google.com/presentation/d/19N5PKXLtMx_FfPzHBcadmXNRq5RL8DDP_PMGMYr-i_o/edit?usp=sharing)
 * [Лекція 6](https://docs.google.com/presentation/d/1h27pW4FqvHXq5aQYJoWQjTcrIbm0duzX3AzaYb4ZQc0/edit?usp=sharing)
+* [Лекція 7](https://docs.google.com/presentation/d/1CducSVcCpO7Ie9cgJEG6Rk6VnntcO-z3VqfIy4y_glE/edit?usp=sharing)
 
 До вивчення рекомендовано наступні ресурси:
 
