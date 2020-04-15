@@ -158,6 +158,7 @@
 * Лекція 8 (МКР-1)
 * [Лекція 9](https://docs.google.com/presentation/d/1zf0xMMNBWoVAs19VpCrD75dqlR_J6zLJlh5FijfiICQ/edit?usp=sharing)
 * [Лекція 10](https://docs.google.com/presentation/d/1vbMkXhSCMD7qFI3O9wSpepnwXv2bP4GpHt9qIKXzYAA/edit?usp=sharing)
+* [Лекція 11](https://docs.google.com/presentation/d/1rR-km104dmU2oZmvPCSuvIKmgAovOKqZj2KnmFCUc_s/edit?usp=sharing)
 
 До вивчення рекомендовано наступні ресурси:
 
