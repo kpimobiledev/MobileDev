@@ -159,7 +159,8 @@
 * [Лекція 9](https://docs.google.com/presentation/d/1zf0xMMNBWoVAs19VpCrD75dqlR_J6zLJlh5FijfiICQ/edit?usp=sharing)
 * [Лекція 10](https://docs.google.com/presentation/d/1vbMkXhSCMD7qFI3O9wSpepnwXv2bP4GpHt9qIKXzYAA/edit?usp=sharing)
 * [Лекція 11](https://docs.google.com/presentation/d/1rR-km104dmU2oZmvPCSuvIKmgAovOKqZj2KnmFCUc_s/edit?usp=sharing)
-* [Лекція 12](https://docs.google.com/presentation/d/1BqnbDejek_5WB4UPSwgH19VR-Ctdj5kPnCx9rFC72pE/edit?usp=sharing)
+* [Лекція 12-13](https://docs.google.com/presentation/d/1BqnbDejek_5WB4UPSwgH19VR-Ctdj5kPnCx9rFC72pE/edit?usp=sharing)
+* [Лекція 14](https://docs.google.com/presentation/d/14Uk-QeCUtmySnEkBwWG3UfA8SS_VMP6ptUMObaMUNFA/edit?usp=sharing)
 
 До вивчення рекомендовано наступні ресурси:
 
