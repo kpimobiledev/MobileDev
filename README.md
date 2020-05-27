@@ -163,6 +163,7 @@
 * [Лекція 14](https://docs.google.com/presentation/d/14Uk-QeCUtmySnEkBwWG3UfA8SS_VMP6ptUMObaMUNFA/edit?usp=sharing)
 * [Лекція 15](https://docs.google.com/presentation/d/1v2TSfUMuwGH7yKfqf4RPW2290_fuwWZvWTGrdXg3mbY/edit?usp=sharing)
 * [Лекція 16](https://docs.google.com/presentation/d/1_llPkUfNbiMO244KNuexaQKGTCgTWEMfa2ZrJ-tDK-0/edit?usp=sharing)
+* [Лекція 17](https://docs.google.com/presentation/d/1iUeg311zQZSDs1uhv84zvFqMBGxMnPTeZwfgUy-LO6w/edit?usp=sharing)
 
 До вивчення рекомендовано наступні ресурси:
 
